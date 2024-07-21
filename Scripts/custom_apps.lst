@@ -1,5 +1,5 @@
 # --------------------------------------------------- // System
-# downgrade                                            # downgrade packages
+downgrade                                              # downgrade packages
 # trash-cli-git                                        # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
@@ -20,4 +20,5 @@ spotify                                                # proprietary music strea
 spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+neovim                                                 # vim based text editor
+dfu-programmer                                         # flasher for qmk hex files

@@ -11,7 +11,7 @@ cloneDir="$(dirname "${scrDir}")"
 confDir="${XDG_CONFIG_HOME:-$HOME/.config}"
 cacheDir="$HOME/.cache/hyde"
 aurList=(yay paru)
-shlList=(zsh fish)
+shlList=(fish)
 
 pkg_installed() {
     local PkgIn=$1
