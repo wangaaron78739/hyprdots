@@ -15,7 +15,7 @@ com.brave.Browser                              # Brave
 # org.signal.Signal                            # Signal
 # com.discordapp.Discord                       # Discord
 # dev.vencord.Vesktop                          # Vesktop
-io.github.spacingbat3.webcord                  # Webcord
+# io.github.spacingbat3.webcord                # Webcord
 
 # ------------------------------------------- // Productivity
 # md.obsidian.Obsidian                         # Obsidian
